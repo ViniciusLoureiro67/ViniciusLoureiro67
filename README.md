@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinicius%20Loureiro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Engineer%20%7C%20React%20Specialist&descSize=16&descAlignY=52"/>
 
 <!-- TYPING -->
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+enterprise+React+applications;%F0%9F%8E%AF+1000%2B+commits+in+production+systems;%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="Typing SVG" />
 </a>
 
@@ -251,9 +251,24 @@ School Management System
 
 <br/>
 
-## 📈 Production Stats
+## 📈 GitHub Analytics
 
 <div align="center">
+
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLoureiro67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+</a>
+
+<br/><br/>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
