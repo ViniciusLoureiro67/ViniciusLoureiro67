@@ -256,16 +256,13 @@ School Management System
 <div align="center">
 
 <a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLoureiro67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8"/>
 </a>
 
 <br/><br/>
