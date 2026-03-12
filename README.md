@@ -256,7 +256,7 @@ School Management System
 <div align="center">
 
 <a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&starting_year=2026"/>
 </a>
 
 <br/><br/>
