@@ -11,13 +11,13 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/vsloureiro">
+<a href="https://www.linkedin.com/in/vsloureiro" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:viniciussloureiro@hotmail.com">
+<a href="mailto:viniciussloureiro@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/ViniciusLoureiro67">
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -150,23 +150,23 @@ const vinicius: Developer = {
 
 <h3 align="center">🏢 Nexus Platform</h3>
 <p align="center">
-  <b>Enterprise Management System</b>
+  <b>565+ commits | 174 React components</b>
 </p>
 
 ```
-565+ commits | Production
-├── Kanban with drag-and-drop
-├── Real-time ticketing system
-├── Financial management
-├── Corporate calendar
-└── Multi-module integration
+Enterprise Management System
+├── Kanban board (dnd-kit)
+├── Real-time updates (Pusher)
+├── Data tables (TanStack Table)
+├── Calendar (FullCalendar)
+└── 37 pages with Inertia.js
 ```
 
 <p align="center">
 <img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white"/>
-<img src="https://img.shields.io/badge/FullCalendar-4285F4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
 </p>
 
 </td>
@@ -174,23 +174,23 @@ const vinicius: Developer = {
 
 <h3 align="center">🎓 Gestão Escolar</h3>
 <p align="center">
-  <b>Multi-tenant Educational Platform</b>
+  <b>67+ commits | 29 React components</b>
 </p>
 
 ```
-77 migrations | AI-Powered
-├── Assessment builder (Lexical)
-├── Google Gemini integration
-├── Analytics dashboards
-├── Multi-school support
-└── Certificate generation
+Multi-tenant Educational Platform
+├── Rich text editor (Lexical)
+├── Charts & analytics (Recharts)
+├── Complex forms (React Hook Form)
+├── Data grids (TanStack Table)
+└── Dark/Light mode (next-themes)
 ```
 
 <p align="center">
 <img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lexical-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
 </p>
 
 </td>
@@ -200,45 +200,47 @@ const vinicius: Developer = {
 
 <h3 align="center">📋 IDHES</h3>
 <p align="center">
-  <b>Event & Registration Platform</b>
+  <b>Production | 68 React components</b>
 </p>
 
 ```
-Production System
-├── Facial authentication
-├── AWS Rekognition
-├── Digital certificates
-├── 2FA authentication
-└── Temporary link system
+Event & Registration Platform
+├── Complex data tables
+├── Form validation (Zod)
+├── Excel export (ExcelJS)
+├── Toast notifications (Sonner)
+└── Command palette (cmdk)
 ```
 
 <p align="center">
 <img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Biometrics-00C853?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 </td>
 <td width="50%">
 
-<h3 align="center">🎯 THEP Formações</h3>
+<h3 align="center">🎯 THEP Edu</h3>
 <p align="center">
-  <b>Training Management System</b>
+  <b>Production | Modern Stack</b>
 </p>
 
 ```
-Production System
-├── Biometric verification
-├── Attendance tracking
-├── Certificate automation
-├── Event scheduling
-└── User management
+School Management System
+├── Ant Design Pro Components
+├── TanStack Query (data fetching)
+├── Zustand (state management)
+├── Playwright (E2E testing)
+└── Vitest (unit testing)
 ```
 
 <p align="center">
 <img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PDF_Gen-FF0000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white"/>
 </p>
 
 </td>
@@ -249,16 +251,21 @@ Production System
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 Production Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLoureiro67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   💻  1000+ commits          across 6+ enterprise projects          │
+│   🧩  300+ components        React components in production         │
+│   📄  170+ migrations        database schemas designed              │
+│   📦  50+ libraries          mastered in the React ecosystem        │
+│   🚀  4 systems              currently running in production        │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -315,7 +322,7 @@ Production System
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vsloureiro">
+<a href="https://www.linkedin.com/in/vsloureiro" target="_blank">
   <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
