@@ -5,7 +5,7 @@
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+enterprise+React+applications;%F0%9F%8E%AF+1000%2B+commits+in+production+systems;%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+enterprise+React+applications;%F0%9F%8E%AF+2500%2B+commits+in+production+systems;%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,9 +57,9 @@ const vinicius: Developer = {
   ],
 
   stats: {
-    commits: "1000+ in production",
-    projects: "6+ enterprise systems",
-    migrations: "170+ database schemas"
+    commits: "2500+ in production",
+    projects: "5 enterprise systems",
+    migrations: "190+ database schemas"
   }
 };
 ```
@@ -262,15 +262,15 @@ School Management System
 <br/><br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   💻  1000+ commits          across 6+ enterprise projects          │
-│   🧩  300+ components        React components in production         │
-│   📄  170+ migrations        database schemas designed              │
-│   📦  50+ libraries          mastered in the React ecosystem        │
-│   🚀  4 systems              currently running in production        │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│   💻  2500+ commits           across enterprise projects              │
+│   🧩  350+ components         React/TypeScript in production          │
+│   📄  190+ migrations         database schemas designed               │
+│   📦  70+ libraries           mastered in the React ecosystem         │
+│   🚀  5 systems               currently running in production         │
+│                                                                       │
+└───────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
