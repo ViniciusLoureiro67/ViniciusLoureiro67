@@ -57,7 +57,7 @@ const vinicius: Developer = {
   ],
 
   stats: {
-    commits: "2500+ in production",
+    commits: "6000+ in production",
     projects: "5 enterprise systems",
     migrations: "190+ database schemas"
   }
