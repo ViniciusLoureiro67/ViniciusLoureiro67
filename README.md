@@ -264,7 +264,7 @@ School Management System
 ```
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
-│   💻  2500+ commits           across enterprise projects              │
+│   💻  7000+ commits           across enterprise projects              │
 │   🧩  350+ components         React/TypeScript in production          │
 │   📄  190+ migrations         database schemas designed               │
 │   📦  70+ libraries           mastered in the React ecosystem         │
