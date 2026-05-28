@@ -261,6 +261,13 @@ School Management System
 
 <br/><br/>
 
+<!-- ACTIVITY BREAKDOWN (Commits / Issues / PRs / Code review) -->
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusLoureiro67&theme=tokyonight" />
+</a>
+
+<br/><br/>
+
 ```
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
