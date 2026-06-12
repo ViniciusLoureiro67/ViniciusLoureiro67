@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinicius%20Loureiro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-end%20Engineer%20%7C%20React%20Specialist&descSize=16&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinicius%20Loureiro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Front-end%20Specialist&descSize=16&descAlignY=52"/>
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg" target="_blank">
@@ -57,7 +57,7 @@ const vinicius: Developer = {
   ],
 
   stats: {
-    commits: "7000+ in production",
+    commits: "8000+ in production",
     projects: "5 enterprise systems",
     migrations: "190+ database schemas"
   }
@@ -174,7 +174,7 @@ Enterprise Management System
 
 <h3 align="center">🎓 Gestão Escolar</h3>
 <p align="center">
-  <b>67+ commits | 29 React components</b>
+  <b>5000+ commits</b>
 </p>
 
 ```
@@ -200,7 +200,7 @@ Multi-tenant Educational Platform
 
 <h3 align="center">📋 IDHES</h3>
 <p align="center">
-  <b>Production | 68 React components</b>
+  <b>Production</b>
 </p>
 
 ```
@@ -264,9 +264,9 @@ School Management System
 ```
 ┌───────────────────────────────────────────────────────────────────────┐
 │                                                                       │
-│   💻  7000+ commits           across enterprise projects              │
-│   🧩  350+ components         React/TypeScript in production          │
-│   📄  190+ migrations         database schemas designed               │
+│   💻  8000+ commits           across enterprise projects              │
+│   🧩  400+ components         React/TypeScript in production          │
+│   📄  300+ migrations         database schemas designed               │
 │   📦  70+ libraries           mastered in the React ecosystem         │
 │   🚀  5 systems               currently running in production         │
 │                                                                       │
