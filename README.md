@@ -2,9 +2,9 @@
 
 **Full-Stack Software Engineer** (backend-strong) · Maceió, Brazil 🇧🇷 · building production SaaS at **THEP (Inovação Sustentável)**
 
-<!-- TYPING (um SVG multiline, sem corte) -->
+<!-- TYPING (multiline, rápido, sem corte) -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=2DD4BF&center=false&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=I+build+production+software%2C+end+to+end;Shipping+a+SaaS+live+for+5+municipalities;Purple+belt+on+and+off+the+mat" alt="Vinicius Loureiro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1200&color=2DD4BF&center=false&vCenter=true&multiline=true&repeat=true&width=820&height=88&lines=I+build+production+software%2C+end+to+end;Shipping+a+SaaS+live+for+5+municipalities" alt="Vinicius Loureiro" />
 </a>
 
 <br/>
@@ -82,12 +82,7 @@ Next.js and Tailwind. Motion design, computational geometry, technical SEO with 
 ## GitHub
 
 <a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&mode=yearly&starting_year=2026"/>
-</a>
-
-<a href="https://github.com/ViniciusLoureiro67" target="_blank">
   <img height="195" src="https://github-readme-stats-sigma-azure-31.vercel.app/api?username=ViniciusLoureiro67&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" />
-  <img height="195" src="https://github-readme-stats-sigma-azure-31.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=c9d1d9" />
 </a>
 
 ## Background
