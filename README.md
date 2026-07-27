@@ -1,338 +1,122 @@
-<div align="center">
+# Vinicius Loureiro
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinicius%20Loureiro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Front-end%20Specialist&descSize=16&descAlignY=52"/>
+**Full-Stack Software Engineer** (backend-strong) · Maceió, Brazil 🇧🇷 · building production SaaS at **THEP (Inovação Sustentável)**
 
-<!-- TYPING -->
+<!-- TYPING (3 SVGs com stagger via ZWSP prefix) -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%E2%9A%A1+Building+enterprise+React+applications;%F0%9F%8E%AF+8000%2B+commits+in+production+systems;%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%9A%A1+I+build+production+software%2C+end+to+end" alt="line 1" />
+</a>
+<br/>
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%F0%9F%8E%AF+Principal+contributor+on+a+SaaS+live+for+5+municipalities" alt="line 2" />
+</a>
+<br/>
+<a href="https://git.io/typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="line 3" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/vsloureiro" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:viniciussloureiro@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/vsloureiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:viniciussloureiro@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Open%20to-international%20relocation%20%26%20remote-2DD4BF?style=flat-square" alt="Open to relocation"/>
+
+---
+
+## About
+
+Full-Stack Software Engineer, strongest on the backend. I build multi-tenant SaaS and own it end to end: domain modeling, data layer, integrations, queues, real-time, and the UI on top. I care about correctness under concurrency (idempotent payment webhooks, atomic stock control, race-safe ledgers), security done properly (hardened Row-Level Security, least privilege), and clean architecture a team can grow into.
+
+Career-changer. 5+ years as an administrative officer at a State Court, a semester studying in Dubai, then a full pivot to software. Two Computer Science degrees in progress (one in English, through University of the People). English: Duolingo English Test 110/160.
+
+I work AI-augmented: I built my own toolkit of AI coding agents (Claude Code skills, subagents, MCP servers) to plan, build, review and ship at the pace of a full team, while keeping the discipline of thousands of automated tests, static analysis at max level, and peer review on every pull request.
+
+Open to international relocation and remote roles worldwide.
+
+## Featured Work
+
+### [THEP EDU](https://github.com/THEP-Inovacao-Sustentavel/edu) · multi-tenant education platform (in production)
+Software Developer, **principal contributor (~68% of commits)**. Live for **5 municipalities, ~54 schools and ~6,800 students**.
+
+- Two bounded contexts (school management and adaptive learning) that communicate **only through events**: Domain-Driven Design, an **Outbox Pattern** with idempotent consumers, and **CQRS** read-models.
+- Shipped enrollment, grading and official PDF report cards, real-time notifications (WebPush and Reverb), a gamified XP and rank economy, and a **3D student universe in Three.js**.
+- Built an observability suite: telemetry, a customer health score, and an automated monthly PDF report per municipality.
+- **Stack** Laravel 12 · PHP 8.4 · PostgreSQL (RLS) · Redis · Horizon · Octane · React 19 · Inertia · Three.js. ~7,000 automated tests, PHPStan at max level.
+
+### [Nexus](https://github.com/THEP-Inovacao-Sustentavel/nexus) · internal ERP with a production MCP server
+Principal contributor (~69% of commits). Kanban, service desk, sprints, finance with a **double-entry ledger**, and fiscal, in one multi-tenant app.
+
+- Includes a **production MCP server over OAuth2** that exposes the platform to AI agents, reusing the same domain services as the UI with full parity of side effects.
+- **Stack** Laravel 12 · Inertia · React 19 · Passport (OAuth2) · Reverb · Octane · PostgreSQL
+
+### [X Loop Store](https://xloop-eyewear-store.vercel.app) · live e-commerce (selling)
+Next.js and Supabase. Idempotent payment webhooks via atomic compare-and-swap, server-authoritative checkout, hardened Row-Level Security, atomic stock control.
+
+### [draftcs](https://draftcs.vercel.app) · viral Counter-Strike game, authored solo (live)
+Next.js and Supabase. Deterministic match engine calibrated with Monte-Carlo simulation, server-side anti-cheat, tri-lingual (EN/PT/RU), ~170 automated tests.
+
+### [Hilton Loureiro](https://hiltonloureiro.com.br) · official site for a Moto1000GP driver (live)
+Next.js and Tailwind. Motion design, computational geometry, technical SEO with JSON-LD.
+
+## Stack
+
+**Backend** Laravel 12 · PHP · PostgreSQL (RLS, PL/pgSQL) · Domain-Driven Design · Outbox Pattern · CQRS · Redis · Horizon · Octane · Reverb · OAuth2 · REST APIs  
+**Frontend** React 19 · TypeScript · Next.js · Inertia.js · Tailwind v4 · shadcn/ui · Radix · TanStack Query · Zustand · Jotai · Three.js / React Three Fiber  
+**Data & Infra** Supabase · AWS (S3) · Docker · CI/CD (GitHub Actions) · Vercel  
+**Quality & AI** Pest · Vitest · Playwright · PHPStan (max) · AI agent orchestration · MCP servers
+
+<details>
+<summary><b>Full stack list</b></summary>
+<br/>
+
+| Category | Technologies |
+|:---------|:-------------|
+| **Backend** | Laravel 12, PHP 8.4, Octane, Horizon, Reverb |
+| **Architecture** | Domain-Driven Design, Bounded Contexts, Outbox Pattern, CQRS, multi-tenancy |
+| **Database** | PostgreSQL, Row-Level Security, PL/pgSQL, Supabase |
+| **Frontend Core** | React 19, TypeScript, Tailwind CSS v4, Vite, Next.js |
+| **UI Components** | shadcn/ui, Radix UI, Ant Design, Headless UI |
+| **State & Data** | Jotai, Zustand, TanStack Query, TanStack Table |
+| **Forms** | React Hook Form, Zod |
+| **3D & Motion** | Three.js, React Three Fiber, Drei, Framer Motion, GSAP |
+| **Real-time** | Reverb, Pusher, Laravel Echo, WebSockets |
+| **Auth** | Sanctum, Passport (OAuth2) |
+| **Testing** | Pest, Vitest, Playwright, Testing Library |
+| **Cloud & DevOps** | AWS (S3), Docker, Vercel, GitHub Actions |
+| **AI** | Claude Code (agents, skills, hooks), MCP servers |
+
+</details>
+
+## GitHub
+
 <a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&mode=yearly&starting_year=2026"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/ViniciusLoureiro67" target="_blank">
+  <img height="195" src="https://github-readme-stats-sigma-azure-31.vercel.app/api?username=ViniciusLoureiro67&show_icons=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9" />
+  <img height="195" src="https://github-readme-stats-sigma-azure-31.vercel.app/api/top-langs/?username=ViniciusLoureiro67&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=c9d1d9" />
+</a>
 
-<!-- SNAKE -->
+## Background
+
+|  |  |
+|:--|:--|
+| 🥋 | **Brazilian Jiu-Jitsu, purple belt.** The mat taught me to drill fundamentals, manage discomfort, and ship under pressure. |
+| 🌍 | **Studied in Dubai.** Cross-cultural collaboration, working across timezones, adapting fast, communicating in English. |
+| ⚖️ | **5+ years at a State Court.** Structured thinking, careful reading of specs, written communication that lands. |
+| 📚 | **Two Computer Science degrees in progress.** Afya and University of the People (USA, online, English). |
+
+## Open to
+
+- **International relocation** and **remote roles worldwide**, starting immediately
+- Full-stack or backend roles, full-time or contract
+- Reach me on [LinkedIn](https://www.linkedin.com/in/vsloureiro) or by [email](mailto:viniciussloureiro@hotmail.com)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```typescript
-const vinicius: Developer = {
-  role: "Front-end Engineer",
-  company: "THEP - Inovação Sustentável",
-  location: "Maceió, Brazil 🇧🇷",
-
-  journey: {
-    past: "Legal Assistant (5 years)",
-    pivot: "Lived in Dubai 🇦🇪",
-    present: "Building enterprise software",
-    future: "Computer Science degree in progress"
-  },
-
-  currentWork: [
-    "Multi-tenant educational platforms",
-    "Corporate management systems",
-    "Real-time collaborative apps",
-    "AI-powered tools"
-  ],
-
-  stats: {
-    commits: "8000+ in production",
-    projects: "5 enterprise systems",
-    migrations: "190+ database schemas"
-  }
-};
-```
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
-
-<div align="center">
-
-<!-- SKILL ICONS -->
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,laravel,docker,git,aws,figma&theme=dark&perline=9" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### ⚡ Core Stack
-
-<img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript_5.9-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Inertia.js_v2-9553E9?style=flat-square&logo=inertia&logoColor=white"/>
-
-</td>
-<td valign="top" width="33%">
-
-### 🧩 UI Libraries
-
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ant_Design_6-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square&logo=headlessui&logoColor=black"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-
-</td>
-<td valign="top" width="33%">
-
-### 📊 Data & State
-
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logo=reacttable&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔧 Full Tech Stack (click to expand)</b></summary>
-<br/>
-
-| Category | Technologies |
-|:---------|:-------------|
-| **Frontend Core** | React 19, TypeScript 5.9, Tailwind CSS v4, Vite 7 |
-| **UI Components** | shadcn/ui, Radix UI, Ant Design 6, Headless UI, 8bitcn |
-| **State Management** | Jotai, Zustand, TanStack Query |
-| **Forms & Validation** | React Hook Form, Zod |
-| **Tables & Data** | TanStack Table, Recharts, ExcelJS |
-| **Rich Text** | Lexical Editor |
-| **Calendar** | FullCalendar |
-| **Drag & Drop** | dnd-kit |
-| **Animations** | Framer Motion, Motion |
-| **Real-time** | Pusher, Laravel Echo, WebSockets |
-| **Testing** | Vitest, Playwright, Testing Library |
-| **Backend Integration** | Inertia.js v2, Laravel, Axios |
-| **Cloud & DevOps** | AWS (S3, Rekognition), Docker |
-| **Tools** | Laravel Herd, Navicat, Git, Figma |
-
-</details>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🏢 Nexus Platform</h3>
-<p align="center">
-  <b>565+ commits | 174 React components</b>
-</p>
-
-```
-Enterprise Management System
-├── Kanban board (dnd-kit)
-├── Real-time updates (Pusher)
-├── Data tables (TanStack Table)
-├── Calendar (FullCalendar)
-└── 37 pages with Inertia.js
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎓 Gestão Escolar</h3>
-<p align="center">
-  <b>5000+ commits</b>
-</p>
-
-```
-Multi-tenant Educational Platform
-├── Rich text editor (Lexical)
-├── Charts & analytics (Recharts)
-├── Complex forms (React Hook Form)
-├── Data grids (TanStack Table)
-└── Dark/Light mode (next-themes)
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lexical-000000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">📋 IDHES</h3>
-<p align="center">
-  <b>Production</b>
-</p>
-
-```
-Event & Registration Platform
-├── Complex data tables
-├── Form validation (Zod)
-├── Excel export (ExcelJS)
-├── Toast notifications (Sonner)
-└── Command palette (cmdk)
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Headless_UI-66E3FF?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎯 THEP Edu</h3>
-<p align="center">
-  <b>Production | Modern Stack</b>
-</p>
-
-```
-School Management System
-├── Ant Design Pro Components
-├── TanStack Query (data fetching)
-├── Zustand (state management)
-├── Playwright (E2E testing)
-└── Vitest (unit testing)
-```
-
-<p align="center">
-<img src="https://img.shields.io/badge/React_19-087EA4?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ViniciusLoureiro67" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusLoureiro67&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&mode=yearly&starting_year=2026"/>
-</a>
-
-<br/><br/>
-
-```
-┌───────────────────────────────────────────────────────────────────────┐
-│                                                                       │
-│   💻  8000+ commits           across enterprise projects              │
-│   🧩  400+ components         React/TypeScript in production          │
-│   📄  300+ migrations         database schemas designed               │
-│   📦  70+ libraries           mastered in the React ecosystem         │
-│   🚀  5 systems               currently running in production         │
-│                                                                       │
-└───────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-## 🎯 What I Bring
-
-<div align="center">
-
-| 🎨 | ⚡ | 🔒 | 🧩 | 📱 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Pixel-Perfect** | **Performance** | **Type-Safe** | **Scalable** | **Responsive** |
-| Accessible interfaces with attention to detail | Optimized bundles, lazy loading, code splitting | End-to-end TypeScript with Zod validation | Reusable component libraries | Mobile-first design approach |
-
-</div>
-
-<br/>
-
-## 🥋 Beyond Code
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🥋 Brazilian Jiu-Jitsu     ████████████████████░░  Purple Belt ║
-║   🌍 Global Experience       ████████████████████░░  Dubai 🇦🇪    ║
-║   ⚖️ Legal Background        ████████████████████░░  5 years     ║
-║   📚 CS Degree               ████████████░░░░░░░░░░  In Progress ║
-║   💻 Enterprise Systems      ████████████████████░░  6+ projects ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ViniciusLoureiro67&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-### 💼 Open for Opportunities
-
-<i>"The mat taught me that growth comes from discomfort.<br/>Code taught me the same thing, just with more Stack Overflow."</i>
-
-<br/>
-
-**Let's build something amazing together**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vsloureiro" target="_blank">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
