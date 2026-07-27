@@ -4,7 +4,7 @@
 
 <!-- TYPING (multiline, rápido, sem corte) -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1200&color=2DD4BF&center=false&vCenter=true&multiline=true&repeat=true&width=820&height=88&lines=I+build+production+software%2C+end+to+end;Shipping+a+SaaS+live+for+5+municipalities" alt="Vinicius Loureiro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=400&color=2DD4BF&center=false&vCenter=true&multiline=true&repeat=true&width=820&height=88&lines=I+build+production+software%2C+end+to+end;Shipping+a+SaaS+live+for+5+municipalities" alt="Vinicius Loureiro" />
 </a>
 
 <br/>
