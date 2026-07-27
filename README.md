@@ -2,17 +2,9 @@
 
 **Full-Stack Software Engineer** (backend-strong) · Maceió, Brazil 🇧🇷 · building production SaaS at **THEP (Inovação Sustentável)**
 
-<!-- TYPING (3 SVGs com stagger via ZWSP prefix) -->
+<!-- TYPING (um SVG multiline, sem corte) -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%9A%A1+I+build+production+software%2C+end+to+end" alt="line 1" />
-</a>
-<br/>
-<a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%F0%9F%8E%AF+Principal+contributor+on+a+SaaS+live+for+5+municipalities" alt="line 2" />
-</a>
-<br/>
-<a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=2DD4BF&center=false&vCenter=true&repeat=true&width=640&height=35&lines=%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%F0%9F%A5%8B+Purple+belt+on+and+off+the+mat" alt="line 3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1400&color=2DD4BF&center=false&vCenter=true&multiline=true&repeat=true&width=760&height=120&lines=I+build+production+software%2C+end+to+end;Shipping+a+SaaS+live+for+5+municipalities;Purple+belt+on+and+off+the+mat" alt="Vinicius Loureiro" />
 </a>
 
 <br/>
@@ -36,7 +28,7 @@ Open to international relocation and remote roles worldwide.
 ## Featured Work
 
 ### [THEP EDU](https://github.com/THEP-Inovacao-Sustentavel/edu) · multi-tenant education platform (in production)
-Software Developer, **principal contributor (~68% of commits)**. Live for **5 municipalities, ~54 schools and ~6,800 students**.
+Software Developer, **core contributor** on a platform **live for 5 municipalities, ~54 schools and ~6,800 students**.
 
 - Two bounded contexts (school management and adaptive learning) that communicate **only through events**: Domain-Driven Design, an **Outbox Pattern** with idempotent consumers, and **CQRS** read-models.
 - Shipped enrollment, grading and official PDF report cards, real-time notifications (WebPush and Reverb), a gamified XP and rank economy, and a **3D student universe in Three.js**.
@@ -44,7 +36,7 @@ Software Developer, **principal contributor (~68% of commits)**. Live for **5 mu
 - **Stack** Laravel 12 · PHP 8.4 · PostgreSQL (RLS) · Redis · Horizon · Octane · React 19 · Inertia · Three.js. ~7,000 automated tests, PHPStan at max level.
 
 ### [Nexus](https://github.com/THEP-Inovacao-Sustentavel/nexus) · internal ERP with a production MCP server
-Principal contributor (~69% of commits). Kanban, service desk, sprints, finance with a **double-entry ledger**, and fiscal, in one multi-tenant app.
+Core developer. Kanban, service desk, sprints, finance with a **double-entry ledger**, and fiscal, in one multi-tenant app.
 
 - Includes a **production MCP server over OAuth2** that exposes the platform to AI agents, reusing the same domain services as the UI with full parity of side effects.
 - **Stack** Laravel 12 · Inertia · React 19 · Passport (OAuth2) · Reverb · Octane · PostgreSQL
