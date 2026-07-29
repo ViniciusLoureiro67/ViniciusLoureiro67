@@ -19,7 +19,7 @@
 
 Full-Stack Software Engineer, strongest on the backend. I build multi-tenant SaaS and own it end to end: domain modeling, data layer, integrations, queues, real-time, and the UI on top. I care about correctness under concurrency (idempotent payment webhooks, atomic stock control, race-safe ledgers), security done properly (hardened Row-Level Security, least privilege), and clean architecture a team can grow into.
 
-Career-changer. 5+ years as an administrative officer at a State Court, a semester studying in Dubai, then a full pivot to software. Two Computer Science degrees in progress (one in English, through University of the People). English: Duolingo English Test 110/160.
+Career-changer. 5+ years as an administrative officer at a State Court, a semester studying in Dubai, then a full pivot to software. Computer Science degree in progress at Afya. English: Duolingo English Test 110/160.
 
 I work AI-augmented: I built my own toolkit of AI coding agents (Claude Code skills, subagents, MCP servers) to plan, build, review and ship at the pace of a full team, while keeping the discipline of thousands of automated tests, static analysis at max level, and peer review on every pull request.
 
@@ -92,7 +92,7 @@ Next.js and Tailwind. Motion design, computational geometry, technical SEO with 
 | 🥋 | **Brazilian Jiu-Jitsu, purple belt.** The mat taught me to drill fundamentals, manage discomfort, and ship under pressure. |
 | 🌍 | **Studied in Dubai.** Cross-cultural collaboration, working across timezones, adapting fast, communicating in English. |
 | ⚖️ | **5+ years at a State Court.** Structured thinking, careful reading of specs, written communication that lands. |
-| 📚 | **Two Computer Science degrees in progress.** Afya and University of the People (USA, online, English). |
+| 📚 | **Computer Science degree in progress.** Afya, Maceió. |
 
 ## Open to
 
