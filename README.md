@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/vsloureiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:viniciussloureiro@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:viniciussloureiro12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Open%20to-international%20relocation%20%26%20remote-2DD4BF?style=flat-square" alt="Open to relocation"/>
 
 ---
@@ -98,7 +98,7 @@ Next.js and Tailwind. Motion design, computational geometry, technical SEO with 
 
 - **International relocation** and **remote roles worldwide**, starting immediately
 - Full-stack or backend roles, full-time or contract
-- Reach me on [LinkedIn](https://www.linkedin.com/in/vsloureiro) or by [email](mailto:viniciussloureiro@hotmail.com)
+- Reach me on [LinkedIn](https://www.linkedin.com/in/vsloureiro) or by [email](mailto:viniciussloureiro12@gmail.com)
 
 ---
 
